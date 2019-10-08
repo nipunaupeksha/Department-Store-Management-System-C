@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1570532357 source:e:\projects\depatment store management system\department store management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
